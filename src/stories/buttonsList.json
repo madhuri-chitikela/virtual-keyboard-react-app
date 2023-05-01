@@ -1,0 +1,108 @@
+{
+    "buttonsList": [
+        {
+            "id": "A",
+            "value": "A"
+        },
+        {
+            "id": "B",
+            "value": "B"
+        },
+        {
+            "id": "C",
+            "value": "C"
+        },
+        {
+            "id": "D",
+            "value": "D"
+        },
+        {
+            "id": "E",
+            "value": "E"
+        },
+        {
+            "id": "F",
+            "value": "F"
+        },
+        {
+            "id": "G",
+            "value": "G"
+        },
+        {
+            "id": "H",
+            "value": "H"
+        },
+        {
+            "id": "I",
+            "value": "I"
+        },
+        {
+            "id": "J",
+            "value": "J"
+        },
+        {
+            "id": "K",
+            "value": "K"
+        },
+        {
+            "id": "L",
+            "value": "L"
+        },
+        {
+            "id": "M",
+            "value": "M"
+        },
+        {
+            "id": "N",
+            "value": "N"
+        },
+        {
+            "id": "O",
+            "value": "O"
+        },
+        {
+            "id": "P",
+            "value": "P"
+        },
+        {
+            "id": "Q",
+            "value": "Q"
+        },
+        {
+            "id": "R",
+            "value": "R"
+        },
+        {
+            "id": "S",
+            "value": "S"
+        },
+        {
+            "id": "T",
+            "value": "T"
+        },
+        {
+            "id": "U",
+            "value": "U"
+        },
+        {
+            "id": "V",
+            "value": "V"
+        },
+        {
+            "id": "W",
+            "value": "W"
+        },
+        {
+            "id": "X",
+            "value": "X"
+        },
+        {
+            "id": "Y",
+            "value": "Y"
+        },
+        {
+            "id": "Z",
+            "value": "Z"
+        }
+    ]
+}
