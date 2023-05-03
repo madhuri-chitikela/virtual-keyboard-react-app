@@ -25,8 +25,8 @@ export default function KeyboardCard({handleKeyboardClick,handleKeyboardClick1,h
         handleKeyboardClick2(e.target.value)
     }
     return (
-            <Card>
-                <div style={{background:"brown", width: 250}}>
+            <Card className='shadow-lg p-2'>
+                <div style={{width: 230}}>
                 {
                     data.buttonsList.map((item) => {
                         return (
