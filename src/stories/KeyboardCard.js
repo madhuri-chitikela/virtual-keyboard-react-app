@@ -26,7 +26,7 @@ export default function KeyboardCard({handleKeyboardClick,handleKeyboardClick1,h
     }
     return (
             <Card>
-                <div style={{background:"red", width: 250}}>
+                <div style={{background:"brown", width: 250}}>
                 {
                     data.buttonsList.map((item) => {
                         return (
@@ -43,14 +43,6 @@ export default function KeyboardCard({handleKeyboardClick,handleKeyboardClick1,h
                         );
                     })
                 }
-                <button
-                                type="button"
-                                className='btn btn-primary m-1'
-                                onClick={handleClick2}
-                                value="-1"
-                            >
-                                BackSpace
-                            </button>
                             <button
                                 type="button"
                                 className='btn btn-primary m-1'
@@ -66,28 +58,4 @@ export default function KeyboardCard({handleKeyboardClick,handleKeyboardClick1,h
 }
 
 
-        //     <div>
-
-        //         <Card>
-        //             <form onSubmit={handleClick}>
-        //                 <label>Input</label>
-        //                 <input
-        //                    type="keyboard"
-        //                    value={name}
-        //                    onChange={(e)=> setName(e.target.value)
-        //                 }
-        //                 />
-
-        //         <ButtonToolbar className="mb-3" aria-label="Toolbar with Button groups">
-        //       <ButtonGroup className="me-2" aria-label="First group">
-        //       <Button variant="secondary" onClick={handleClick} value="A">A</Button>{' '}
-        //       <Button variant="secondary" onClick={handleClick} value="B">B</Button>{' '}
-        //       <Button variant="secondary" onClick={handleClick} value="C">C</Button>{' '}
-        //       <Button variant="secondary" onClick={handleClick} value="D">D</Button>{' '}
-        //       <Button variant="secondary" onClick={handleClick} value="E">E</Button>
-        //       </ButtonGroup>
-        //       </ButtonToolbar>
-        //       </form>
-        //         </Card>
-        //         <p>{name}</p>
-        //     </div>
+        

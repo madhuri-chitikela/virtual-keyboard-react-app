@@ -22,7 +22,7 @@ export default function VirtualKeyboardApp(){
             <div>
               <HeaderComponent />
             </div>
-            <div class="d-flex justify-content-center">
+            <div class="d-flex justify-content-center" style={{background: 'lightgreen', margin:'20px', height:'50px'}}>
               <h2>{paragraph}</h2> 
               </div>
               <div class="d-flex justify-content-center" style= {{margin:50}}>
